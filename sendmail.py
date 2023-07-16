@@ -68,7 +68,7 @@ html = f"""\
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
             <div>
               <p style="margin:0;font-size:small; color: #b1b1b1;">Feel like</p>
-              <p style="margin:0;">-{main.h2.feeltemp}</p>
+              <p style="margin:0;">{main.h2.feeltemp}</p>
             </div>
           </div>
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
@@ -95,7 +95,7 @@ html = f"""\
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
             <div>
               <p style="margin:0;font-size:small; color: #b1b1b1;">Feel like</p>
-              <p style="margin:0;">-{main.h3.feeltemp}</p>
+              <p style="margin:0;">{main.h3.feeltemp}</p>
             </div>
           </div>
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
@@ -122,7 +122,7 @@ html = f"""\
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
             <div>
               <p style="margin:0;font-size:small; color: #b1b1b1;">Feel like</p>
-              <p style="margin:0;">-{main.h4.feeltemp}</p>
+              <p style="margin:0;">{main.h4.feeltemp}</p>
             </div>
           </div>
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
@@ -149,7 +149,7 @@ html = f"""\
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
             <div>
               <p style="margin:0;font-size:small; color: #b1b1b1;">Feel like</p>
-              <p style="margin:0;">-{main.h5.feeltemp}</p>
+              <p style="margin:0;">{main.h5.feeltemp}</p>
             </div>
           </div>
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
@@ -176,7 +176,7 @@ html = f"""\
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
             <div>
               <p style="margin:0;font-size:small; color: #b1b1b1;">Feel like</p>
-              <p style="margin:0;">-{main.h6.feeltemp}</p>
+              <p style="margin:0;">{main.h6.feeltemp}</p>
             </div>
           </div>
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
@@ -203,7 +203,7 @@ html = f"""\
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
             <div>
               <p style="margin:0;font-size:small; color: #b1b1b1;">Feel like</p>
-              <p style="margin:0;">-{main.h7.feeltemp}</p>
+              <p style="margin:0;">{main.h7.feeltemp}</p>
             </div>
           </div>
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
@@ -230,7 +230,7 @@ html = f"""\
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
             <div>
               <p style="margin:0;font-size:small; color: #b1b1b1;">Feel like</p>
-              <p style="margin:0;">-{main.h8.feeltemp}</p>
+              <p style="margin:0;">{main.h8.feeltemp}</p>
             </div>
           </div>
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
@@ -257,7 +257,7 @@ html = f"""\
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
             <div>
               <p style="margin:0;font-size:small; color: #b1b1b1;">Feel like</p>
-              <p style="margin:0;">-{main.h9.feeltemp}</p>
+              <p style="margin:0;">{main.h9.feeltemp}</p>
             </div>
           </div>
           <div id="hour_disc" style="color:white;font-weight:bold;list-style-type:none;padding:0;border-top-style:solid;border-color:gray;border-width:1px;padding-top:5px;padding-bottom:5px;">
